@@ -37,3 +37,32 @@ h1{
 .text-div .img-div h1{
     background-color: #4e4e4e;
 }
+
+a:link {
+    color: #a7a7a7;
+    background-color: transparent;
+
+
+  }
+  
+  a:visited {
+    color: #ffffff;
+    background-color: transparent;
+
+
+  }
+  
+  a:hover {
+    color: #4d4d4d;
+    background-color: transparent;
+
+
+  }
+  
+  a:active {
+    color: #000000;
+    background-color: transparent;
+
+
+  }
+
